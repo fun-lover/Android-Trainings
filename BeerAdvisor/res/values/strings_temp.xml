@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">Beer advisor</string>
+	<string name="action_settings">Settings</string>
+	<string name="find_bear">Find Beer!</string>
+	<string name="brands">brands</string>
+
+	<string-array name="beer-colors">
+		<item>light</item>
+		<item>amber</item>
+		<item>brown</item>
+		<item>dark</item>
+	</string-array>
+</resources>
